@@ -20,7 +20,7 @@ The objective of the game is to cross the city passing through some traffic rout
 
 ## Example 
 
-![Youtube](img/youtube.png) [Youtube](https://youtu.be/KyTSw56466Y) ![Youtube](img/youtube.png)
+[Watch on Youtube](https://youtu.be/KyTSw56466Y)
 
 ## License
 
